@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie movieCode="MC1001">
+        <title>SpiderMan</title>
+        <director>Sam Raimi</director>
+        <genres>
+            <genre>Action</genre>
+            <genre>Superhero</genre>
+            <genre>Adventure</genre>
+            <genre>Fantasy</genre>
+            <genre>Sci-fi</genre>
+        </genres>
+        <dateOfRelease>2002-04-30</dateOfRelease>
+        <imagePath>images/Spider-Man(2002).jpg</imagePath>
+    </movie>
+    <movie movieCode="MC1002">
+        <title>Hulk</title>
+        <director>Ang Lee</director>
+        <genres>
+            <genre>Action</genre>
+            <genre>Superhero</genre>
+            <genre>Adventure</genre>
+            <genre>Sci-fi</genre>
+        </genres>
+        <dateOfRelease>2008-06-13</dateOfRelease>
+        <imagePath>images/The_Incredible_Hulk(2008).jpg</imagePath>
+    </movie>
+    <movie movieCode="MC1003">
+        <title>Iron Man</title>
+        <director>Jon Favreau</director>
+        <genres>
+            <genre>Action</genre>
+            <genre>Superhero</genre>
+            <genre>War</genre>
+            <genre>Adventure</genre>
+            <genre>Sci-fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <dateOfRelease>2008-04-30</dateOfRelease>
+        <imagePath>images/Iron_Man(2008).jpg</imagePath>
+    </movie>
+    <movie movieCode="MC1004">
+        <title>Doctor Strange</title>
+        <director>Scott Derrickson</director>
+        <genres>
+            <genre>Action</genre>
+            <genre>Superhero</genre>
+            <genre>Adventure</genre>
+            <genre>Fantasy</genre>
+            <genre>Sci-fi</genre>
+        </genres>
+        <dateOfRelease>2016-10-26</dateOfRelease>
+        <imagePath>images/Doctor_Strange(2016).jpg</imagePath>
+    </movie>
+    <movie movieCode="MC1005">
+        <title>Back to the Future</title>
+        <director>Robert Zemeckis</director>
+        <genres>
+            <genre>Sci-fi</genre>
+        </genres>
+        <dateOfRelease>1985-07-03</dateOfRelease>
+        <imagePath>images/Back_To_The_Future(1985).jpg</imagePath>
+    </movie>
+    <movie movieCode="MC1006">
+        <title>Forrest Gump</title>
+        <director>Robert Zemeckis</director>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Comedy</genre>
+        </genres>
+        <dateOfRelease>1994-07-06</dateOfRelease>
+        <imagePath>images/Forrest_Gump(1994)1.jpg</imagePath>
+    </movie>
+    <movie movieCode="MC1007">
+        <title>The Shawshank Redemption</title>
+        <director>Stephen King</director>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <dateOfRelease>1994-10-14</dateOfRelease>
+        <imagePath>images/The_Shawshank_Redemption(1994).jpg</imagePath>
+    </movie>
+    <movie movieCode="MC1008">
+        <title>Catch Me If You Can</title>
+        <director>Steven Spielberg</director>
+        <genres>
+            <genre>Crime</genre>
+        </genres>
+        <dateOfRelease>2002-12-25</dateOfRelease>
+        <imagePath>images/Catch_Me_If_You_Can(2002).jpg</imagePath>
+    </movie>
+    <movie movieCode="MC1009">
+        <title>Die Hard</title>
+        <director>John McTiernan</director>
+        <genres>
+            <genre>Action</genre>
+        </genres>
+        <dateOfRelease>1988-07-20</dateOfRelease>
+        <imagePath>images/Die_Hard(1988).jpg</imagePath>
+    </movie>
+    <movie movieCode="MC1010">
+        <title>The Great Gatsby</title>
+        <director>Baz Luhrmann</director>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <dateOfRelease>2013-05-10</dateOfRelease>
+        <imagePath>images/The_Great_Gatsby(2013).jpg</imagePath>
+    </movie>
+</movies>

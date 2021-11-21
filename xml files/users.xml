@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<users>
+  <user userName="jude">
+    <password>1122</password>
+    <firstName>Jude</firstName>
+    <lastName>Catudio</lastName>
+    <profilePic>user pics/2x2pic.jpg</profilePic>
+    <status>online</status>
+  </user>
+  <user userName="christian">
+    <password>qwe</password>
+    <firstName>Christian</firstName>
+    <lastName>Catudio</lastName>
+    <profilePic>user pics/default.png</profilePic>
+    <status>online</status>
+  </user>
+</users>

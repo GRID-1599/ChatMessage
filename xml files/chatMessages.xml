@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chatMesssages>
+  <chatMesssage>
+    <from>jude</from>
+    <to>christian</to>
+    <message>Hi</message>
+    <date>2021-06-14</date>
+    <time>10:13 pm</time>
+  </chatMesssage>
+  <chatMesssage>
+    <from>christian</from>
+    <to>jude</to>
+    <message>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia finibus felis id laoreet. Phasellus a pulvinar massa</message>
+    <date>2021-06-14</date>
+    <time>10:13 pm</time>
+  </chatMesssage>
+  <chatMesssage>
+    <from>jude</from>
+    <to>christian</to>
+    <message>Nullam metus libero, placerat bibendum commodo ut</message>
+    <date>2021-06-14</date>
+    <time>10:14 pm</time>
+  </chatMesssage>
+  <chatMesssage>
+    <from>jude</from>
+    <to>christian</to>
+    <message>Praesent lobortis egestas tempor</message>
+    <date>2021-06-14</date>
+    <time>10:14 pm</time>
+  </chatMesssage>
+  <chatMesssage>
+    <from>jude</from>
+    <to>christian</to>
+    <message>jude</message>
+    <date>2021-07-08</date>
+    <time>01:46 am</time>
+  </chatMesssage>
+  <chatMesssage>
+    <from>jude</from>
+    <to>christian</to>
+    <message>qweqeq</message>
+    <date>2021-07-08</date>
+    <time>01:46 am</time>
+  </chatMesssage>
+  <chatMesssage>
+    <from>jude</from>
+    <to>christian</to>
+    <message>qweqessadsa</message>
+    <date>2021-07-08</date>
+    <time>01:46 am</time>
+  </chatMesssage>
+</chatMesssages>
